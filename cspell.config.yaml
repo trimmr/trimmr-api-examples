@@ -1,0 +1,9 @@
+version: "0.2"
+caseSensitive: false
+dictionaryDefinitions: []
+dictionaries: []
+words:
+  - linebreak
+  - trimmr
+ignoreWords: []
+import: []
